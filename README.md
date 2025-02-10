@@ -66,5 +66,5 @@ GPT-4 analyzes the dataset and provides:
 This project is licensed under the MIT License.
 
 ## 📧 Contact
-For any queries, reach out at [your.email@example.com](mailto:your.email@example.com).
+For any queries, reach out at [tanishamedewala.25@gmail.com](mailto:tanishamedewala.25@gmail.com).
 
