@@ -16,8 +16,8 @@ This project is an AI-powered automated data visualization tool built with **Str
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/streamlit-ai-viz.git
-   cd streamlit-ai-viz
+   git clone https://github.com/your-repo/genAI_data_viz.git
+   cd genAI_data_viz
    ```
 
 2. Create a virtual environment and install dependencies:
