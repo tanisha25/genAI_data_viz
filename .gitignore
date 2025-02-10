@@ -1,0 +1,27 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Log files
+*.log
+
+# Environment variables file
+.env
+
+# VSCode files
+.vscode/
+
+# JetBrains IDE files
+.idea/
+
+# macOS specific
+*.swp
